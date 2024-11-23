@@ -1,0 +1,5 @@
+{
+    "API_KEY": "a9a24522af48f7f2b064f1dc9e634ccc",
+    "BASE_API_URL": "https://www.themoviedb.org/3",
+    "BASE_IMAGE_API_URL": "https://image.tmdb.org/t/p/original/"
+}
